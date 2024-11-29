@@ -10,4 +10,4 @@
 
 ## 许可证
 
-本项目遵守[MIT许可证](https://opensource.org/license/MIT)
+本项目遵守[MIT许可证](https://raw.githubusercontent.com/Darkness-apl/-/refs/heads/main/LICENSE.txt)
