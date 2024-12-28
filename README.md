@@ -10,4 +10,4 @@
 
 ## 许可证
 
-本项目遵守[MIT许可证](https://raw.githubusercontent.com/Darkness-apl/-/refs/heads/main/LICENSE.txt)
+本项目遵守[MIT许可证](https://github.com/Darkness-apl/Chinese-localization-software/raw/refs/heads/main/LICENSE.txt)
